@@ -10,3 +10,7 @@ end
 def input_to_index(input)
    index = input.strip.to_i - 1
 end 
+
+def move
+  
+end
